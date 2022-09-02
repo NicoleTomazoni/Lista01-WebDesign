@@ -14,3 +14,4 @@ Web Design - Lista de Exercícios 01
 5-Crie uma tabela colorida com as informações do cardápio do nosso refeitório.
 
 6-Crie um site para o seu perfil pessoal. 
+LINK: https://nicoletomazoni.github.io/PerfilPessoal-GitHubPages/
