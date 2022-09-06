@@ -1,0 +1,60 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: rgb(192, 186, 186);
+    margin: auto;
+    display: block;
+    color: black;
+}
+
+.container{
+    margin-top: 50px;
+    width: 400px;
+    border: 1px solid black;
+    margin-left: 200px;
+    background-color:white ;
+}
+
+h1{
+    text-align: center;
+}
+input{
+    margin: 10px;
+    border: 0;
+    background-color: rgb(161, 157, 153);
+}
+label{
+    margin-left: 30px;
+}
+#email{
+    margin-bottom: 20px;
+}
+input#mensagem{
+    margin-left: 30px;
+    height: 200px;
+    width: 330px;
+}
+ 
+input#email{
+    margin-left: 40px;
+    width: 240px;
+}
+input#name{
+    margin-left: 35px;
+    width: 240px;
+}
+input#assunto{
+    margin-left: 23px;
+    width: 240px;
+}
+p{
+    text-align: center;
+}
+
+button{
+    background-color: rgb(160, 113, 113);
+    color: aliceblue;
+    margin: 0;
+    border: 5px;
+    border-radius: 10px;
+    padding: 10px;
+}

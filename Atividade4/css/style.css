@@ -1,0 +1,43 @@
+body{
+    font-family: 'Mali', cursive;
+    background-color: cornsilk;
+    color:lightslategrey
+}
+#taylor h2{
+    margin-top: 50px;
+}
+audio{
+    margin-bottom: 30px;
+}
+
+video{
+    width: 600px;
+    margin-bottom: 30px;
+}
+h1,h2{
+    font-family: 'Mali', cursive;
+}
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 25px;
+}
+p{
+    text-align: justify;
+    margin-bottom: 20px;
+    float: right;
+}
+img{
+    width: 300px;
+}
+section#lizzo{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+}
+section#lizzo div{
+    width: 50%;
+    display: inline-block;
+    margin-left: 40px;
+}

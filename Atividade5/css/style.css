@@ -1,0 +1,35 @@
+body{
+    background-color: azure;
+}
+table{
+    margin-top: 50px;
+}
+tr#roxo{
+    background-color: purple;
+    color: white;
+}
+tr#azul{
+    background-color: blue;
+    color: white;
+}
+tr#verde{
+    background-color: green;
+    color: white;
+}
+tr#amarelo{
+    background-color: yellow;
+    color: black;
+}
+tr#laranja{
+    background-color: orange;
+    color: white;
+}
+tr#vermelho{
+    background-color: red;
+    color: white;
+}
+th,td{
+    border: 1px solid black;
+    min-width: 200px;
+    height: 30px;
+}
